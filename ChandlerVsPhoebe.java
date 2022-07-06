@@ -1,9 +1,7 @@
-package questoes;
-
 import java.io.*;
 import java.util.*;
 
-public class ChandlerVsPhoebe {
+public class HuxleyCode {
   public static void main(String args[]) {
     Scanner input = new Scanner(System.in);
     int n = input.nextInt();
@@ -32,6 +30,6 @@ public class ChandlerVsPhoebe {
     }
     
     
-    input.close();
+  
   }
 }
